@@ -1,0 +1,9 @@
+{
+	"gender": "Gender",
+	"age": "Age",
+	"postcode": "State Of Residence",
+	"level_education": "Level Of Education",
+	"employment_status": "Employment Status",
+	"party_preference": "Party Preference",
+	"income_bracket": "Income Bracket"
+}
